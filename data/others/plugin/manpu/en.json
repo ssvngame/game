@@ -1,0 +1,48 @@
+{
+  "漫符": "Emoticon",
+  "ゲーム画面に漫符を表示できます": "Display a manga-style emoticon on the game screen.",
+  "汗": "Sweat",
+  "汗２": "Sweat2",
+  "びっくり": "Surprised",
+  "びっくり２": "Surprised2",
+  "ふきだし": "Balloon",
+  "ふきだし２": "Balloon2",
+  "ガーン": "Shock",
+  "はてな": "Question",
+  "ハート１": "Heart1",
+  "ハート２": "Heart2",
+  "ハート３": "Heart3",
+  "キラッ": "Kira",
+  "もじゃもじゃ": "Moja",
+  "ムカッ": "Angry",
+  "ムカッ２": "Angry2",
+  "波波": "Wave",
+  "波波２": "Wave2",
+  "なんと！？": "What !?",
+  "音符": "Note",
+  "おやッ": "Oya",
+  "ピカッ": "Pika",
+  "ため息": "Sigh",
+  "わいわい": "WaiWai",
+  
+  "漫符の種類":"Emoticon Types",
+  "使用する漫符を選択してください":"Select an emoticon to use.",
+  "漫符を表示するX座標を設定":"Set emoticon X coordinate",
+  "漫符を表示するY座標を設定":"Set emoticon Y coordinate",
+  "漫符の横幅を指定します":"Set the emoticon width. ",
+  "指定した時間、漫符が表示されます":"The emoticon will be appear over the specified duration.",
+  "指定した時間かけて表示されます":"Display over the specified duration.",
+  "指定した時間かけて消去されます":"Remove over the specified duration.",
+  "漫符表示時の効果音ボリュームを設定します":"Set the emoticon sound effect volume",
+  
+  "効果音ボリューム":"aaa",
+  "表示時間":"aaa",
+  "挿入時間":"aaa",
+  "消去時間":"aaa",
+  "":"aaa",
+  "":"aaa",
+  
+  "":"aaa"
+  
+  
+}

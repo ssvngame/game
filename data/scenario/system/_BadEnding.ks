@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/Dusk.jpg"  ]
+[preload  storage="./data/bgimage/bar.jpg"  ]
+[preload  storage="./data/bgimage/BE_bg.png"  ]
+[preload  storage="./data/bgimage/title_bkg.png"  ]
+[return]

@@ -1,0 +1,6 @@
+[preload  storage="./data/bgimage/bar.jpg"  ]
+[preload  storage="./data/fgimage/default/whisky.jpg"  ]
+[preload  storage="./data/fgimage/chara/4/Kakashi_Present_smile.png"  ]
+[preload  storage="./data/fgimage/chara/4/Kakashi_Present_normal.png"  ]
+[preload  storage="./data/fgimage/default/BlackScreen.png"  ]
+[return]

@@ -1,0 +1,11 @@
+{
+  "オートセーブ・オートロード": "Auto Save and Auto Load",
+  "オートセーブ・オートロードを実行できるコンポーネントが使用できるようになります。": "Adds the Auto Save and Auto Load Components",
+  "オートセーブ": "Auto Save",
+  "オートセーブすることができます。オートロードを実行すると最新地点のデータを読み出します": "Saves the game in progress. Auto Load will read the most recent save point.",
+  "オートロード": "Auto Load",
+  "最後にオートセーブされたデータを読み出します。": "Reads the most recent save point created by Auto Save.",
+  "セーブタイトル": "Save Title",
+  "": "",
+  "": ""
+}
